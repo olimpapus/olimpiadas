@@ -1,5 +1,5 @@
 # *Visión General*
-Este documento README describe cómo implementar y utilizar el sistema de ventas en línea desarrollado para [Nombre de la Empresa]. Este sistema está diseñado para facilitar la gestión de productos, pedidos y usuarios, permitiendo una experiencia de compra eficiente y segura para los clientes.
+Este documento README describe cómo implementar y utilizar el sistema de ventas en línea desarrollado para INET. Este sistema está diseñado para facilitar la gestión de productos, pedidos y usuarios, permitiendo una experiencia de compra eficiente y segura para los clientes.
 
 ## *Requisitos del Sistema*
 - *Servidor Web:* Apache
